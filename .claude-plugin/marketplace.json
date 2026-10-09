@@ -1,0 +1,13 @@
+{
+  "name": "taki-plugins",
+  "owner": { "name": "Kristóf" },
+  "metadata": { "description": "Saját plugin-gyűjtemény", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "graphify",
+      "description": "Kódbázis -> lekérdezhető tudásgráf (/graphify). Előfeltétel: uv tool install graphifyy",
+      "source": "./plugins/graphify",
+      "version": "0.9.82"
+    }
+  ]
+}

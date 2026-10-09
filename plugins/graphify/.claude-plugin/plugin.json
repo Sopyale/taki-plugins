@@ -1,0 +1,7 @@
+{
+  "name": "graphify",
+  "version": "0.9.82",
+  "description": "Turn any codebase into a queryable knowledge graph. Wraps the official Graphify-Labs/graphify skill (Windows variant). Requires the CLI: uv tool install graphifyy",
+  "homepage": "https://github.com/Graphify-Labs/graphify",
+  "license": "Apache-2.0 OR MIT"
+}
